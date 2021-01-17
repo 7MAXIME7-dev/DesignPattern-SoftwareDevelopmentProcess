@@ -1,0 +1,4 @@
+deer, 2
+bear, 2
+car, 3
+river, 2

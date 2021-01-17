@@ -1,0 +1,14 @@
+C:\Users\Julien Fink\source\repos\ProjectDesignPattern\ProjectDesignPattern\obj\Debug\ProjectDesignPattern.csprojAssemblyReference.cache
+C:\Users\Julien Fink\source\repos\ProjectDesignPattern\ProjectDesignPattern\obj\Debug\ProjectDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Julien Fink\source\repos\ProjectDesignPattern\ProjectDesignPattern\bin\Debug\ProjectDesignPattern.exe.config
+C:\Users\Julien Fink\source\repos\ProjectDesignPattern\ProjectDesignPattern\bin\Debug\ProjectDesignPattern.exe
+C:\Users\Julien Fink\source\repos\ProjectDesignPattern\ProjectDesignPattern\bin\Debug\ProjectDesignPattern.pdb
+C:\Users\Julien Fink\source\repos\ProjectDesignPattern\ProjectDesignPattern\obj\Debug\ProjectDesignPattern.exe
+C:\Users\Julien Fink\source\repos\ProjectDesignPattern\ProjectDesignPattern\obj\Debug\ProjectDesignPattern.pdb
+C:\Users\maxim\Desktop\ProjectDesignPattern\ProjectDesignPattern\ProjectDesignPattern\bin\Debug\ProjectDesignPattern.exe.config
+C:\Users\maxim\Desktop\ProjectDesignPattern\ProjectDesignPattern\ProjectDesignPattern\bin\Debug\ProjectDesignPattern.exe
+C:\Users\maxim\Desktop\ProjectDesignPattern\ProjectDesignPattern\ProjectDesignPattern\bin\Debug\ProjectDesignPattern.pdb
+C:\Users\maxim\Desktop\ProjectDesignPattern\ProjectDesignPattern\ProjectDesignPattern\obj\Debug\ProjectDesignPattern.csprojAssemblyReference.cache
+C:\Users\maxim\Desktop\ProjectDesignPattern\ProjectDesignPattern\ProjectDesignPattern\obj\Debug\ProjectDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Desktop\ProjectDesignPattern\ProjectDesignPattern\ProjectDesignPattern\obj\Debug\ProjectDesignPattern.exe
+C:\Users\maxim\Desktop\ProjectDesignPattern\ProjectDesignPattern\ProjectDesignPattern\obj\Debug\ProjectDesignPattern.pdb

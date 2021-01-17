@@ -1,0 +1,13 @@
+C:\Users\maxim\Desktop\Ex1_CustomQueue_Generics\Ex1_CustomQueue_Generics\bin\Debug\netcoreapp3.1\Ex1_CustomQueue_Generics.exe
+C:\Users\maxim\Desktop\Ex1_CustomQueue_Generics\Ex1_CustomQueue_Generics\bin\Debug\netcoreapp3.1\Ex1_CustomQueue_Generics.deps.json
+C:\Users\maxim\Desktop\Ex1_CustomQueue_Generics\Ex1_CustomQueue_Generics\bin\Debug\netcoreapp3.1\Ex1_CustomQueue_Generics.runtimeconfig.json
+C:\Users\maxim\Desktop\Ex1_CustomQueue_Generics\Ex1_CustomQueue_Generics\bin\Debug\netcoreapp3.1\Ex1_CustomQueue_Generics.runtimeconfig.dev.json
+C:\Users\maxim\Desktop\Ex1_CustomQueue_Generics\Ex1_CustomQueue_Generics\bin\Debug\netcoreapp3.1\Ex1_CustomQueue_Generics.dll
+C:\Users\maxim\Desktop\Ex1_CustomQueue_Generics\Ex1_CustomQueue_Generics\bin\Debug\netcoreapp3.1\Ex1_CustomQueue_Generics.pdb
+C:\Users\maxim\Desktop\Ex1_CustomQueue_Generics\Ex1_CustomQueue_Generics\obj\Debug\netcoreapp3.1\Ex1_CustomQueue_Generics.csprojAssemblyReference.cache
+C:\Users\maxim\Desktop\Ex1_CustomQueue_Generics\Ex1_CustomQueue_Generics\obj\Debug\netcoreapp3.1\Ex1_CustomQueue_Generics.AssemblyInfoInputs.cache
+C:\Users\maxim\Desktop\Ex1_CustomQueue_Generics\Ex1_CustomQueue_Generics\obj\Debug\netcoreapp3.1\Ex1_CustomQueue_Generics.AssemblyInfo.cs
+C:\Users\maxim\Desktop\Ex1_CustomQueue_Generics\Ex1_CustomQueue_Generics\obj\Debug\netcoreapp3.1\Ex1_CustomQueue_Generics.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Desktop\Ex1_CustomQueue_Generics\Ex1_CustomQueue_Generics\obj\Debug\netcoreapp3.1\Ex1_CustomQueue_Generics.dll
+C:\Users\maxim\Desktop\Ex1_CustomQueue_Generics\Ex1_CustomQueue_Generics\obj\Debug\netcoreapp3.1\Ex1_CustomQueue_Generics.pdb
+C:\Users\maxim\Desktop\Ex1_CustomQueue_Generics\Ex1_CustomQueue_Generics\obj\Debug\netcoreapp3.1\Ex1_CustomQueue_Generics.genruntimeconfig.cache
